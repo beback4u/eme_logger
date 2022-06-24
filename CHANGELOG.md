@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/shaka-project/eme_logger/compare/v3.2.0...v3.2.1) (2022-06-24)
+
+
+### Bug Fixes
+
+* Display keystatuseschange.expiration as a Date ([#48](https://github.com/shaka-project/eme_logger/issues/48)) ([d5d15f6](https://github.com/shaka-project/eme_logger/commit/d5d15f621aac0d84466c8d44ff02fb806db40ca5)), closes [#42](https://github.com/shaka-project/eme_logger/issues/42)
+
 ## [3.2.0](https://github.com/shaka-project/eme_logger/compare/v3.1.3...v3.2.0) (2022-02-03)
 
 
